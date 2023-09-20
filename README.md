@@ -5,7 +5,7 @@ Welcome to my GitHub profile! I'm enthusiastic about Python programming, particu
 ## Interests 👀
 
 - Python Programming
-- Web Development with Django
+- Data Analysis
 - Artificial Intelligence
 
 
