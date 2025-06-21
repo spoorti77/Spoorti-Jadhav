@@ -65,8 +65,8 @@
 ### 📈 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=spoorti-jadhav&show_icons=true&theme=github_dark" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=spoorti-jadhav&layout=compact&theme=github_dark" />
+  <img src="https://github-readme-stats.vercel.app/api?username=spoorti77&show_icons=true&theme=github_dark" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=spoorti77&layout=compact&theme=github_dark" />
 </div>
 
 ---
