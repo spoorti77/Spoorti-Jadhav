@@ -56,7 +56,7 @@
 
 <p align="center">
   <a href="https://leetcode.com/spoorti-jadhav/">
-    <img src="https://leetcard.jacoblin.cool/spoorti-jadhav?theme=light&ext=contest" />
+    <img src="https://leetcard.jacoblin.cool/spoortijadhav9819?theme=light&ext=contest" />
   </a>
 </p>
 
