@@ -52,7 +52,7 @@
 ### 🧠 LeetCode
 
 - 📘 Practicing **DSA regularly** to improve logical thinking and problem-solving
-- 🔗 [My LeetCode Profile](https://leetcode.com/spoorti-jadhav/)
+- 🔗 [My LeetCode Profile](https://leetcode.com/u/spoortijadhav9819/)
 
 <p align="center">
   <a href="https://leetcode.com/spoorti-jadhav/">
