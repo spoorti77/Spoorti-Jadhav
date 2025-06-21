@@ -2,7 +2,7 @@
 <h3 align="center">Python | Django | React Developer</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Full-stack+Developer;Aiming+for+Product-Based+Companies;Building+with+Django+%26+React;DSA+Enthusiast+on+LeetCode;Always+Learning+New+Tech&center=true&width=520&height=45&color=0D9CD6&vCenter=true&pause=1000&size=22" />
+  <img src="https://readme-typing-svg.demolab.com/?lines=Full-stack+Developer;Aiming+for+Product-Based+Companies;Building+with+Django+%26+React;DSA+Enthusiast+on+LeetCode;Prompt+Engineer+for+Fast+Debugging&center=true&width=520&height=45&color=0D9CD6&vCenter=true&pause=1000&size=22" />
 </p>
 
 ---
@@ -10,12 +10,12 @@
 ### 🚀 About Me
 
 - 🎯 I’m on a mission to crack **product-based companies** by becoming a top-notch **full-stack developer**
-- 💼 I'm currently working at a **startup**, where I contribute to **backend, frontend, and deployment** – building complete features in a fast-paced, agile environment
-- 👩‍💻 Focused on building real-world applications using **Django + React**
-- 🧠 Practicing DSA daily on **LeetCode** to sharpen my problem-solving skills
-- 🌍 Exploring **System Design**, **Celery**, **Redis**, and **Docker** to build scalable, production-ready systems
-- 🔧 Constantly learning new technologies and writing clean, maintainable, and well-architected code
-- 📂 I build projects that reflect not just my skills, but also **my ability to think like an engineer**
+- 💼 Currently working at a **startup**, contributing to **backend, frontend, and deployment** – building complete features in a fast-paced, agile environment
+- 👩‍💻 Working with **Django + React** to build scalable applications and modern UIs
+- 🧠 Practicing DSA daily on **LeetCode**
+- 🔍 Skilled at **Prompt Engineering** using tools like **ChatGPT, Claude AI**, etc., for faster debugging, code generation & system design brainstorming
+- 🌍 Learning **System Design**, **Celery**, **Redis**, and **Docker** to build production-grade apps
+- 🔧 Obsessed with writing **clean, maintainable, and scalable code**
 
 ---
 
@@ -30,8 +30,9 @@
 **Frontend:**  
 `React.js` `Tailwind CSS` `Bootstrap` `Axios`
 
-**Tools:**  
-`Git` `GitHub` `Docker` `Postman` `VS Code`
+**Dev Tools:**  
+`Git` `GitHub` `Docker` `Postman` `VS Code`  
+`Prompt Engineering` (ChatGPT, Claude AI, Gemini)
 
 ---
 
@@ -48,6 +49,19 @@
 
 ---
 
+### 🧠 LeetCode
+
+- 📘 Practicing **DSA regularly** to improve logical thinking and problem-solving
+- 🔗 [My LeetCode Profile](https://leetcode.com/spoorti-jadhav/)
+
+<p align="center">
+  <a href="https://leetcode.com/spoorti-jadhav/">
+    <img src="https://leetcard.jacoblin.cool/spoorti-jadhav?theme=light&ext=contest" />
+  </a>
+</p>
+
+---
+
 ### 📈 GitHub Stats
 
 <div align="center">
@@ -59,12 +73,12 @@
 
 ### 💫 A Little More About Me
 
-- 📚 I’m a **book lover** who finds inspiration in both code and storytelling  
-- ✍️ I express creativity through **poetry**, and precision through code  
-- 🎨 I’m **organized**, even if sometimes a bit clumsy (blame the creative chaos 😉)  
-- 💪 **Hardworking**, self-driven, and always up for a new challenge  
-- 👩‍💻 A **learner at heart**, constantly upskilling in tech and beyond  
-- 👑 A natural **leader**, yet a humble **team player** who believes in collaboration over competition
+- 📚 A **book lover** who finds inspiration in both storytelling and coding  
+- ✍️ I write **poetry** when I’m not writing code  
+- 🎨 I’m organized (mostly 😄) — a little clumsy, but always composed under pressure  
+- 💪 **Hardworking**, detail-driven, and committed to growth  
+- 👑 A **natural leader** who thrives in team settings and collaborative problem-solving  
+- 🌱 Forever a **learner** — always curious, always building
 
 ---
 
