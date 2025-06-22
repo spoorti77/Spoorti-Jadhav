@@ -92,4 +92,3 @@
 
 ---
 
-> 💬 *"Code is like poetry — elegant, expressive, and written from the heart."*
