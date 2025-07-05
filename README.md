@@ -1,94 +1,70 @@
-<h1 align="center">Hi 👋, I'm Spoorti Jadhav</h1>
-<h3 align="center">Python | Django | React Developer</h3>
+### 👋 Hi, I’m Spoorti Jadhav
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Full-stack+Developer;Aiming+for+Product-Based+Companies;Building+with+Django+%26+React;DSA+Enthusiast+on+LeetCode;Prompt+Engineer+for+Fast+Debugging&center=true&width=520&height=45&color=0D9CD6&vCenter=true&pause=1000&size=22" />
-</p>
+I'm a **Python Django Developer** with 2 years of experience building scalable and maintainable web applications. I'm passionate about clean architecture, fast delivery, and solving real-world problems using elegant code.
 
 ---
 
-### 🚀 About Me
+### 💻 Tech Stack
 
-- 🎯 I’m on a mission to crack **product-based companies** by becoming a top-notch **full-stack developer**
-- 💼 Currently working at a **startup**, contributing to **backend, frontend, and deployment** – building complete features in a fast-paced, agile environment
-- 👩‍💻 Working with **Django + React** to build scalable applications and modern UIs
-- 🧠 Practicing DSA daily on **LeetCode**
-- 🔍 Skilled at **Prompt Engineering** using tools like **ChatGPT, Claude AI**, etc., for faster debugging, code generation & system design brainstorming
-- 🌍 Learning **System Design**, **Celery**, **Redis**, and **Docker** to build production-grade apps
-- 🔧 Obsessed with writing **clean, maintainable, and scalable code**
+**Languages:**
+`Python` `JavaScript` `HTML5` `CSS3`
 
----
+**Frameworks & Libraries:**
+`Django` `Django Rest Framework` `jQuery` `Bootstrap` `Tailwind`
 
-### 🛠️ Tech Stack
+**Databases:**
+`PostgreSQL` `MySQL` `SQLite`
 
-**Languages:**  
-`Python` `JavaScript` `HTML5` `CSS3` `SQL`
+**Dev & AI Tools:**
+`Git` `Docker` `Postman` `VS Code`
+`ChatGPT` `Claude AI` `Gemini` `GitHub Copilot`
 
-**Backend:**  
-`Django` `Django REST Framework` `Celery` `Redis` `PostgreSQL`
+**Cloud & Deployment:**
+`Render` `Heroku` `AWS EC2` `Interserver`
 
-**Frontend:**  
-`React.js` `Tailwind CSS` `Bootstrap` `Axios`
-
-**Dev Tools:**  
-`Git` `GitHub` `Docker` `Postman` `VS Code`  
-`Prompt Engineering` (ChatGPT, Claude AI, Gemini)
+**Prompt Engineering Tools:**
+`ChatGPT` `Claude AI` `Gemini` `Cursor IDE`
 
 ---
 
-### 💼 Projects Portfolio
+### 🔍 About Me
 
-| 📌 Project | 🔧 Tech Stack | 🔗 Link |
-|-----------|---------------|--------|
-| Resume Builder | Django, React, HTML2PDF | [GitHub](https://github.com/spoorti-jadhav/resume-builder) |
-| Interview Scheduler | Django, Celery, Email | [GitHub](https://github.com/spoorti-jadhav/interview-scheduler) |
-| Job Board API | Django REST Framework | [GitHub](https://github.com/spoorti-jadhav/job-board-api) |
-| Weather App | Django, OpenWeather API | [GitHub](https://github.com/spoorti-jadhav/weather-app) |
+* 🔭 I’m currently working on a Django project integrating AI and psychrometric calculations.
+* 🤖 Skilled in **Prompt Engineering** – leveraging tools like ChatGPT, Claude, and Gemini for:
 
-> 🛠 More exciting apps coming soon – stay tuned!
-
----
-
-### 🧠 LeetCode
-
-- 📘 Practicing **DSA regularly** to improve logical thinking and problem-solving
-- 🔗 [My LeetCode Profile](https://leetcode.com/u/spoortijadhav9819/)
-
-<p align="center">
-  <a href="https://leetcode.com/spoorti-jadhav/">
-    <img src="https://leetcard.jacoblin.cool/spoortijadhav9819?theme=light&ext=contest" />
-  </a>
-</p>
+  * Fast debugging and error tracing
+  * Code generation & scaffolding
+  * Writing reusable test cases and documentation
+  * System design discussions and flowcharts
+* 🌱 I’m learning **CI/CD**, **LangChain**, and **Data Analysis**.
+* 💬 Ask me about Python, Django, Prompt Engineering, or deployment best practices.
 
 ---
 
-### 📈 GitHub Stats
+### 📌 Projects
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=spoorti77&show_icons=true&theme=github_dark" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=spoorti77&layout=compact&theme=github_dark" />
-</div>
+| Project Name          | Tech Stack                    | Description                                              |
+| --------------------- | ----------------------------- | -------------------------------------------------------- |
+| Resume Builder        | Django, HTML/CSS              | A tool to generate resumes with downloadable PDF output  |
+| Jain Community Portal | Django, JS, PostgreSQL        | A platform to manage events, attendance, and member data |
+| PromptLab (WIP)       | LangChain, OpenAI API, Django | Building an LLM-based tool to automate prompt workflows  |
 
 ---
 
-### 💫 A Little More About Me
+### 🤖 Prompt Engineering Focus
 
-- 📚 A **book lover** who finds inspiration in both storytelling and coding  
-- ✍️ I write **poetry** when I’m not writing code  
-- 🎨 I’m organized (mostly 😄) — a little clumsy, but always composed under pressure  
-- 💪 **Hardworking**, detail-driven, and committed to growth  
-- 👑 A **natural leader** who thrives in team settings and collaborative problem-solving  
-- 🌱 Forever a **learner** — always curious, always building
+* 🔍 Building better dev workflows using AI tools
+* 🧠 Designing smart prompts for debugging, test generation, and system design
+* 🛠️ Experimenting with LangChain & OpenAI APIs to build LLM utilities
 
 ---
 
 ### 📫 Connect With Me
 
-<p align="center">
-  <a href="https://linkedin.com/in/spoorti-jadhav" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-SpoortiJadhav-blue?style=flat&logo=linkedin"></a>
-  <a href="mailto:spoorti@example.com"><img src="https://img.shields.io/badge/-Email-pink?style=flat&logo=gmail&logoColor=white"></a>
-  <a href="https://github.com/spoorti-jadhav"><img src="https://img.shields.io/badge/GitHub-Profile-333?style=flat&logo=github&logoColor=white"></a>
-</p>
+* LinkedIn: [linkedin.com/in/spoorti-jadhav](https://linkedin.com/in/spoorti-jadhav)
+* GitHub: [github.com/spoorti77](https://github.com/spoorti77)
+* Email: [spoorti.jadhav@example.com](mailto:spoorti.jadhav@example.com)
 
----
+
+
 
